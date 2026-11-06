@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+.railway/
+node_modules/
+*.pem
+id_ed25519*
